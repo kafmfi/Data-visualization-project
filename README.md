@@ -1,2 +1,2 @@
 # Data-visualization-project
-GDP and life expectency relationship of 6 countries through data visualization
+Identify the relationship between GDP and life expectency of six countries 
